@@ -5,11 +5,11 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.authors      = { 'silencedev' => 'silence007pp@163.com' }
   s.social_media_url = 'https://silencedev.github.io'
-  s.homepage     = 'https://github.com/Silencedev/PPNeon'
+  s.homepage     = 'https://github.com/silencedev/PPNeon'
 
   s.ios.deployment_target = '6.0'
 
-  s.source       = { :git => 'https://github.com/Silencedev/PPNeon.git', :tag => s.version.to_s }
+  s.source       = { :git => 'https://github.com/silencedev/PPNeon.git', :tag => s.version.to_s }
   
   s.requires_arc = true
   s.source_files = 'PPNeon/**/*.{h,m}'
