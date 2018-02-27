@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'PPNeon'
-  s.summary      = 'High performance layout framework for iOS/OSX.'
-  s.version      = '0.0.2'
+  s.summary      = 'High performance layout framework for iOS.'
+  s.version      = '0.0.1'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.authors      = { 'silencedev' => 'silence007pp@163.com' }
   s.social_media_url = 'https://silencedev.github.io'
