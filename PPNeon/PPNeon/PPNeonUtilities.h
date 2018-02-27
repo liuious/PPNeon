@@ -12,7 +12,7 @@
 #ifndef PPNeonUtilities_h
 #define PPNeonUtilities_h
 
-#define PPNeonVersion 0.0.1
+#define PPNeonVersion 0.0.2
 
 #define PPNeonName @"PPNeon"
 

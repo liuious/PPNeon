@@ -12,8 +12,6 @@
 #ifndef PPNeon_h
 #define PPNeon_h
 
-#define PPNeon_Version 2.1.0
-
 #import "View+PPAlignable.h"
 #import "View+PPAnchorable.h"
 #import "View+PPGroupable.h"
